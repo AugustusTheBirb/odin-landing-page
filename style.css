@@ -20,6 +20,7 @@ header {
 }
 .contain {
     display: flex;
+    padding: 10px 0;
     height: 50px;
     width: 900px;
     justify-content: space-between;
@@ -28,6 +29,7 @@ header {
     width: 900px;
     display: flex;
     gap: 30px;
+
 }
 #hero-img {
     flex: 3;
